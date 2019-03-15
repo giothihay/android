@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534240659439",
+    "firebase_url": "https://piychat-ad3d9.firebaseio.com",
+    "project_id": "piychat-ad3d9",
+    "storage_bucket": "piychat-ad3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534240659439:android:d816f3b2ca601482",
+        "android_client_info": {
+          "package_name": "com.es.angles.piychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534240659439-9337as3ii9o5qgfvc8enogjuan6pj89i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.es.angles.piychat",
+            "certificate_hash": "9a4ad30151aa357dccced95cc7d10c98befc4aeb"
+          }
+        },
+        {
+          "client_id": "534240659439-jpf474lipi8o3t3iu49em0gft81fboj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkE3XEm5iqrEPUqvXJi_M_eeKXPh3IOe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534240659439-jpf474lipi8o3t3iu49em0gft81fboj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
